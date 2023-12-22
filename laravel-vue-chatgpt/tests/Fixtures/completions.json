@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-6Vc3ZKoWaNxUasYdVjUk9dAn5FdEA",
+    "object": "text_completion",
+    "created": 1672992477,
+    "model": "text-davinci-003",
+    "choices": [
+        {
+            "text": "\n\n1. The `console.log()` function is called with the argument `'hi'`.\n2. The `console.log()` function prints the argument `'hi'` to the console.",
+            "index": 0,
+            "logprobs": null,
+            "finishReason": "stop"
+        }
+    ],
+    "usage": {
+        "promptTokens": 27,
+        "completionTokens": 45,
+        "totalTokens": 72
+    }
+}
